@@ -1,0 +1,8 @@
+body{
+    background-color:gainsboro;
+}
+#idForThirdTask{
+    color: white;
+    background-color: cadetblue;
+    text-align-last: right;
+}
